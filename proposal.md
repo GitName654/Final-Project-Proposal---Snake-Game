@@ -6,7 +6,7 @@
 ## Description
 1-2 sentence description of what it will do and how it relevant to media and digital arts.
 
-It will be a simple snake game where the snake grows longer the more points it consumes and dies once it collides into an object
+It will be a simple snake game where the snake grows longer the more points it consumes and dies once it collides into an object. The functions will feature particle and collision systems that we've learned in class.
 
 ## Features
 - Feature 1
